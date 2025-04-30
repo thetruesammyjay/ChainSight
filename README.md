@@ -1,7 +1,5 @@
 # ChainSight - Solana Blockchain Visualizer
 
-![ChainSight Banner](https://i.imgur.com/JfQ1Njl.png)
-
 ChainSight is an interactive web-based visualization tool designed to map and analyze activity across the Solana blockchain. It provides investigators, analysts, and crypto enthusiasts with an intuitive way to track wallet interactions, transaction flows, and protocol activity in real-time.
 
 ## 🌟 Features
@@ -189,3 +187,13 @@ railway up
 - React Force Graph
 
 - The Graph Protocol
+
+## Roadmap
+| Quarter   | Feature       | Impact                          |
+|-----------|---------------|----------------------------------|
+| Q3 2025   | Mobile App     | Investigation on-the-go         |
+| Q4 2025   | AI Alerts      | Automatic scam detection         |
+| Q1 2026   | Live Training  | Free investigator certification  |
+
+
+Thanks for checking out this repository, as I said above. I'm open for collaboration in order to bring this project to life.
